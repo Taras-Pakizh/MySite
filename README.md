@@ -7,5 +7,6 @@ SingUp/Logging.
 admin/user panel.
 encryption of passwords.
 MySqli database.
+Bootstrap and jquery.
 
 Server - OpenServer.
